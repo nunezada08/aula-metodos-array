@@ -1,4 +1,4 @@
-<h1 align="center">Aulas com exemplos de metodos array<img src = "https://i.pinimg.com/originals/fd/1e/dd/fd1edd05b33d229e6e845c473042c088.gif" width = 50px </h1>
+<h1 align="center">Aulas com exemplos de metodos array<img src = "https://i.pinimg.com/originals/fd/1e/dd/fd1edd05b33d229e6e845c473042c088.gif" width = 80px </h1>
 
 ---
 
