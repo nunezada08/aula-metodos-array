@@ -1,1 +1,1 @@
-<h1 align = center Aulas com exemplos de metodos array></h1>
+<center><h1>Aulas com exemplos de metodos array</h1></center>
