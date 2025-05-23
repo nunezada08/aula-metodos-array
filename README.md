@@ -13,3 +13,4 @@
 - <h3>join: <strong>adiciona</strong> um separador para cada elemento da array.</h3>
 - <h3>slice: <strong>separa</strong> a array conforme os indices.</h3>
 - <h3>splice: <strong>remove ou substitui</strong> elementos do array conforme os indices.</h3>
+- <h3>concat: <strong>combina</strong> dois ou mais arrays.</h3>
